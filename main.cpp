@@ -1,6 +1,6 @@
 #include <iostream>
-#include "141.h"
-#include "main.h"
+#include "./includes/141.h"
+#include "./includes/main.h"
 using namespace std;
 
 int main()

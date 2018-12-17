@@ -2,7 +2,6 @@
 #define LIST_H
 
 #include <iostream>
-#define dataType int
 using namespace std;
 
 struct ListNode {
