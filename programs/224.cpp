@@ -2,11 +2,12 @@
 #include <string>
 using std::string;
 using std::stack;
+/*
 static const auto __ = [](){
     std::ios::sync_with_stdio(false);
     cin.tie(nullptr);
     return nullptr;
-}();
+}();*/
 class Solution {
 public:
     int calculate(string s) {
