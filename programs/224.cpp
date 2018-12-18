@@ -8,6 +8,7 @@ static const auto __ = [](){
     cin.tie(nullptr);
     return nullptr;
 }();*/
+// git test
 class Solution {
 public:
     int calculate(string s) {
